@@ -1,4 +1,4 @@
-# space-mission-0989
+# space-mission
 Concept Design for Spacecraft Hardware and Software
 This repository presents a conceptual design for spacecraft components, schematics, and standards. It focuses on the integration of materials and electronic components, alongside specialized architectures and circuits tailored for spacecraft operating under extreme conditions. The project includes technical documentation and guides for understanding design at both hardware and software levels.
 
