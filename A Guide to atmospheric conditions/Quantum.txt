@@ -1,0 +1,10 @@
+Traditional microcontrollers, such as those from Arduino, are not suitable for implementing quantum architectures or for directly working with quantum hardware. Quantum computing requires a very different type of hardware than that used in classical computing, and conventional microcontrollers do not have the capacity to perform quantum calculations or manipulate qubits.
+
+Quantum computing is based on complex physical principles, such as superposition and entanglement, and utilizes specialized components like qubits and quantum gates. Quantum systems are often extremely delicate and require precise control that goes beyond the capabilities of standard microcontrollers.
+
+To work with quantum computing, specific technologies developed by companies and laboratories dedicated to this field are used. Examples of quantum hardware include:
+
+IBM quantum computers: They use superconducting qubits and provide access to their systems via the cloud.
+D-Wave: It uses a technique known as quantum annealing.
+Google: It has developed its quantum processor Sycamore.
+Rigetti Computing: It offers a superconducting-based quantum processor.
